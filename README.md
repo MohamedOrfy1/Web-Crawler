@@ -32,7 +32,7 @@ A Python-based web crawler that efficiently extracts and processes web pages usi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MohamedOrfy1/Web-Crawler
 cd web-crawler
 ```
 
